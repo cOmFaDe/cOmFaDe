@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vitor-luiz-83a4a3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-luiz-83a4a3246" height="30" width="40" /></a>
 <a href="https://instagram.com/vitor.siebeneichlerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitor.siebeneichlerr" height="30" width="40" /></a>
+  <a href="mailto: vitor.ll@aluno.ifsc.edu.br" target="_blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
