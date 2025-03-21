@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comfade&show_icons=true&locale=en" alt="comfade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comfade&" alt="comfade" /></p>
+
