@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-luiz-83a4a3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-luiz-83a4a3246" height="30" width="40" /></a>
+<a href="https://instagram.com/vitor.siebeneichlerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitor.siebeneichlerr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comfade&show_icons=true&locale=en&layout=compact" alt="comfade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comfade&show_icons=true&locale=en" alt="comfade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comfade&" alt="comfade" /></p>
